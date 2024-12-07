@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\Ville\\Tamk\\course\\JohdatusOhjelmointiin\\Contacts-app\\build\\classes\\java\\main;C:\\Users\\Ville\\Tamk\\course\\JohdatusOhjelmointiin\\Contacts-app\\build\\resources\\main'
+-d 'C:\\Users\\Ville\\Tamk\\course\\JohdatusOhjelmointiin\\Contacts-app\\build\\docs\\javadoc'
+-doctitle 'Contacts-app API'
+-notimestamp 
+-quiet 
+-windowtitle 'Contacts-app API'
+'C:\\Users\\Ville\\Tamk\\course\\JohdatusOhjelmointiin\\Contacts-app\\src\\main\\java\\contactsapp\\App.java'
