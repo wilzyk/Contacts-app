@@ -247,7 +247,7 @@ public class App {
     public static void showContactDialog(final Contact contact, final JFrame frame, final JButton button, JPanel panel) {
         // Create a dialog window.
         JDialog dialog = new JDialog(frame, contact.getFirstName(), true);
-        dialog.setSize(500, 400);
+        dialog.setSize(550, 400);
         dialog.setLayout(new BorderLayout());
 
         // Create panel for contact details.

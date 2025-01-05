@@ -1,5 +1,6 @@
-Creating and checking if a file exists:
+This list is missing a bunch of sources since i didnt always remember to save them.
 
+Creating and checking if a file exists:
 https://www.w3schools.com/java/java_files_create.asp
 https://stackoverflow.com/questions/1816673/how-do-i-check-if-a-file-exists-in-java
 
