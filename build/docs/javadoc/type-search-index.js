@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"contactsapp","l":"App"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"contactsapp","l":"App"},{"p":"contactsapp","l":"Contact"},{"p":"contactsapp","l":"FileRW"},{"p":"contactsapp","l":"Validate"}];updateSearchResults();

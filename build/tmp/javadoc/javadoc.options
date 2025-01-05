@@ -5,3 +5,6 @@
 -quiet 
 -windowtitle 'Contacts-app API'
 'C:\\Users\\Ville\\Tamk\\course\\JohdatusOhjelmointiin\\Contacts-app\\src\\main\\java\\contactsapp\\App.java'
+'C:\\Users\\Ville\\Tamk\\course\\JohdatusOhjelmointiin\\Contacts-app\\src\\main\\java\\contactsapp\\Contact.java'
+'C:\\Users\\Ville\\Tamk\\course\\JohdatusOhjelmointiin\\Contacts-app\\src\\main\\java\\contactsapp\\FileRW.java'
+'C:\\Users\\Ville\\Tamk\\course\\JohdatusOhjelmointiin\\Contacts-app\\src\\main\\java\\contactsapp\\Validate.java'

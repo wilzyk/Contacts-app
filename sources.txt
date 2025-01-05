@@ -1,0 +1,48 @@
+Creating and checking if a file exists:
+
+https://www.w3schools.com/java/java_files_create.asp
+https://stackoverflow.com/questions/1816673/how-do-i-check-if-a-file-exists-in-java
+
+How to write to a file:
+https://stackoverflow.com/questions/60116050/adding-data-to-csv-file-using-java
+https://www.w3schools.com/java/java_files_create.asp
+
+Padding on a frame:
+https://stackoverflow.com/questions/40759013/what-exactly-does-an-emptyborder-do
+
+Empty box between buttons to create spacing:
+https://www.cs.rutgers.edu/courses/111/classes/fall_2011_tjang/texts/notes-java/GUI/layouts/42boxlayout-spacing.html
+
+How to use gridBagLayout:
+https://www.youtube.com/watch?v=g2vDARb7gx8
+
+How to hide horizontal scroll bar:
+https://stackoverflow.com/questions/1727840/disable-horizontal-scroll-in-jscrollpane
+
+How to use arraylist:
+https://www.w3schools.com/java/java_arraylist.asp
+
+How to refresh the window:
+https://stackoverflow.com/questions/7628121/how-can-i-refresh-or-reload-the-jframe
+
+How to remove a button:
+https://stackoverflow.com/questions/27587048/how-can-i-remove-jbutton-from-jframe
+
+How to check if string only has letters:
+https://stackoverflow.com/questions/5238491/check-if-string-contains-only-letters
+
+Regular expressions:
+https://www.w3schools.com/java/java_regex.asp
+https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html
+
+Phone numbers in the world:
+https://en.wikipedia.org/wiki/List_of_country_calling_codes
+https://fi.wikipedia.org/wiki/Matkapuhelinnumerot_Suomessa
+
+Check component type:
+https://stackoverflow.com/questions/40723117/how-to-determine-component-type
+
+
+
+
+
