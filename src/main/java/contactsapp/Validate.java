@@ -105,11 +105,11 @@ public class Validate {
         int[] month30 = {4, 6, 9, 11};
 
         if (contains(month31, month)){
-            return day > 1 && day < 32;
+            return day >= 1 && day < 32;
         }
 
         if (contains(month30, month)) {
-            return day > 1 && day < 31;
+            return day >= 1 && day < 31;
         }
 
         boolean isLeapYear = (year % 4 == 0 && (year % 100 == 0 && year % 400 == 0));
