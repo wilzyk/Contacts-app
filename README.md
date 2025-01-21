@@ -5,8 +5,6 @@ The **Contacts App** is a simple Java application that allows users to manage a 
 
 The app features a simple GUI built using Java Swing.
 
-Link to a youtube video of me explaining the app in finnish:
-https://www.youtube.com/watch?v=d48KDCqVPiY
 
 ## Features
 - Add new contacts.
